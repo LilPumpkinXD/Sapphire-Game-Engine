@@ -1,6 +1,6 @@
 # Sapphire Game Engine
 **A lightweight and extensible 2D game engine designed for making simple games.**
-[Demo](google.com)
+[Demo](https://google.com)
 
 ## Installation
 ```bash
