@@ -1,7 +1,7 @@
 # Sapphire Game Engine
 **A lightweight and extensible 2D game engine designed for rapid prototyping and creative exploration.**
 
-### [Vanilla Javascript]
+* ### [Vanilla Javascript]
 
 ## Installation
 ```bash
